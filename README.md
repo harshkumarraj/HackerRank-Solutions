@@ -9,11 +9,6 @@ This repository contains my solutions to various HackerRank certification challe
 - [Basic Certificate](certificate-basic.pdf) - [View Certificate](https://www.hackerrank.com/certificates/1dc70445784b)
 - [Intermediate Certificate](certificate-intermediate.pdf) - [View Certificate](https://www.hackerrank.com/certificates/726f087bb35c)
 
-## Challenges
-
-1. [Challenge 1](challenge1/) - Description of challenge 1.
-2. [Challenge 2](challenge2/) - Description of challenge 2.
-3. [Challenge 3](challenge3/) - Description of challenge 3.
 
 ## Solutions
 
@@ -33,8 +28,9 @@ Feel free to explore the solutions and use them as a reference or learning resou
 If you have alternative solutions or improvements to the existing solutions, I welcome contributions. Please feel free to open a pull request with your changes.
 
 ## License
+Copyright (c) [2023] [Harsh Kumar Raj]
 
-This repository is licensed under the [MIT License](LICENSE.md). You are free to use the code provided here for educational purposes or to enhance your understanding of various programming concepts.
 
-If you found these solutions helpful or have any suggestions, feel free to open an issue or submit a pull request. Contributions are always welcome!
+
+
 
